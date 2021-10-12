@@ -5,7 +5,19 @@
 }
 
 
+h1{
+    text-align: center;
 
+}
+h3{
+    padding: 10px;
+    text-align: center;
+}
+h6{
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: small;
+}
 
 .profile img{
    
