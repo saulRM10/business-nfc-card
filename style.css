@@ -45,6 +45,7 @@ a:link, a:visited {
     padding: 20px 200px;
     /* add spaces in between the divs by adding a bottom margin to the anchor tag  */
     margin-bottom: 10px;
+    border-radius: 10px;
     font-size: large;
     text-decoration: none;
     /* margin-left: auto;
