@@ -24,18 +24,23 @@ h6{
       background-image: url(/images/itly.jpeg);
       background-size: cover;
       height: 20%;
+      
    /* ------------- */
 }
 #pfr{
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    /* margin-left: auto;
+    margin-right: auto; */
     width: 20%;
     height:5%; 
     border-radius: 50%; 
-    border:5px solid lightskyblue; 
+    /* border:5px solid lightskyblue; 
     margin-bottom: 20px;
-    margin-top: 20px;
+    margin-top: 20px; */
+
+    margin-left: 5%;
+    margin-top: 15%;
+    border: 3px solid yellow;
 
 }
 
