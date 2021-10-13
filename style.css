@@ -4,6 +4,11 @@
     background-color: beige;
 }
 
+/* for the fonts on the page  */
+.open-sans-font{
+  font-family: 'Open Sans', sans-serif;
+}
+
 .profile{
   /* add the wallpaper here  */
      background-image: url(/images/itly.jpeg);
@@ -33,6 +38,7 @@
   margin-left: 7%;
   margin-top: 2%;
   margin-bottom: 5%;
+  font-family: '.open-sans-font', sans-serif;
 }
 
 
@@ -67,12 +73,9 @@ a:link, a:visited {
   }
 
 
- /* for the fonts on the page  */
- .open-sans-font{
-  font-family: 'Open Sans', sans-serif;
-}
+ 
  #name{
-  font-family: '.open-sans-font', sans-serif;
+  
  }
 
  #title{
