@@ -35,10 +35,6 @@
   margin-bottom: 5%;
 }
 
-#testBtn{
-
-  background-color: red;
-}
 
 .box{
 
@@ -55,16 +51,15 @@
 a:link, a:visited {
     background-color: lightskyblue;
     color: white;
-    /* this is the size of the rectangle  */
-    padding: 20px 70px;
+   
+    padding: 20px 30%;
     
-    /* add spaces in between the divs by adding a bottom margin to the anchor tag  */
+    
     margin-bottom: 10px;
     border-radius: 10px;
     font-size: large;
     text-decoration: none;
-    /* margin-left: auto;
-    margin-right: auto; */
+   
   }
   
   a:hover, a:active {
