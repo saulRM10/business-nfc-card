@@ -1,7 +1,8 @@
 
 *{
     margin: 0;
-    background-color: beige;
+    background-color: #00131b;
+    
 }
 
 /* for the fonts on the page  */
@@ -39,6 +40,7 @@
   margin-top: 2%;
   margin-bottom: 5%;
   font-family: '.open-sans-font', sans-serif;
+  color: #F0EAD6;
 }
 
 
@@ -55,8 +57,8 @@
 
 
 a:link, a:visited {
-    background-color: lightskyblue;
-    color: white;
+    background-color: #005174;
+    color: #F0EAD6;
    
     padding: 20px 23%;
     
@@ -69,7 +71,8 @@ a:link, a:visited {
   }
   
   a:hover, a:active {
-    background-color: blueviolet;
+    /* background-color: lightskyblue; */
+    opacity: 0.7;
   }
 
 
