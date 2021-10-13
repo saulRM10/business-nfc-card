@@ -22,6 +22,8 @@ h6{
 .profile img{
    /* add the wallpaper here  */
       background-image: url(/images/itly.jpeg);
+      background-size: cover;
+      height: 20%;
    /* ------------- */
     display: block;
     margin-left: auto;
