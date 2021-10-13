@@ -66,6 +66,23 @@ a:link, a:visited {
     background-color: blueviolet;
   }
 
+
+ /* for the fonts on the page  */
+ .open-sans-font{
+  font-family: 'Open Sans', sans-serif;
+}
+ #name{
+
+ }
+
+ #title{
+
+ }
+
+ #bio{
+
+
+ }
   /* for the icons 
    */
 
