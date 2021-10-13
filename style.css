@@ -4,6 +4,30 @@
     background-color: beige;
 }
 
+.profile{
+  /* add the wallpaper here  */
+     background-image: url(/images/itly.jpeg);
+     background-size: cover;
+     height: 20%;
+     
+  /* ------------- */
+}
+#pfr{
+   display: block;
+   /* margin-left: auto;
+   margin-right: auto; */
+   width: 20%;
+   height:100px; 
+   border-radius: 50%; 
+   /* border:5px solid lightskyblue; 
+   margin-bottom: 20px;
+   margin-top: 20px; */
+
+   margin-left: 5%;
+   margin-top: 20%;
+   border: 3px solid yellow;
+
+}
 
 h1{
     text-align: center;
@@ -19,30 +43,7 @@ h6{
     font-size: small;
 }
 
-.profile{
-   /* add the wallpaper here  */
-      background-image: url(/images/itly.jpeg);
-      background-size: cover;
-      height: 20%;
-      
-   /* ------------- */
-}
-#pfr{
-    display: block;
-    /* margin-left: auto;
-    margin-right: auto; */
-    width: 20%;
-    height:100px; 
-    border-radius: 50%; 
-    /* border:5px solid lightskyblue; 
-    margin-bottom: 20px;
-    margin-top: 20px; */
 
-    margin-left: 5%;
-    margin-top: 20%;
-    border: 3px solid yellow;
-
-}
 
 .box{
 
