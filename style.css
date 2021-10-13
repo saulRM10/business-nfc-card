@@ -96,6 +96,7 @@ a:link, a:visited {
    #icon {
   
     margin: auto;
+    margin-top: 5%;
     padding: 20px;
     font-size: 30px;
     width: 30px;
