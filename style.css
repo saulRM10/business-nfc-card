@@ -19,12 +19,14 @@ h6{
     font-size: small;
 }
 
-.profile img{
+.profile{
    /* add the wallpaper here  */
       background-image: url(/images/itly.jpeg);
       background-size: cover;
       height: 20%;
    /* ------------- */
+}
+#pfr{
     display: block;
     margin-left: auto;
     margin-right: auto;
