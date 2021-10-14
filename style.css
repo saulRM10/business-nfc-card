@@ -73,7 +73,11 @@ a:link, a:visited {
 
  #title{
 
-  padding-bottom: 5px;
+  padding-top: 1%;
+ }
+
+ #bio{
+   padding-top: 2%;
  }
 
   /* for the icons 
