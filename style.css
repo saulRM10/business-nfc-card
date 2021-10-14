@@ -60,6 +60,7 @@
   font-family: '.open-sans-font', sans-serif;
   text-decoration: none;
   border-radius: 10px;
+  
 
   
 }
@@ -94,11 +95,13 @@
     text-align: center;
     text-decoration: none;
     border-radius: 50%;
-
+    
   }
 
   #icon:hover{
-      opacity: 0.7;
+      transform: translateY(-10px);
+      opacity: 1;
+     
   }
 
   #icon:visited{
@@ -110,11 +113,19 @@
     background: #3B5998;
     color: white;
   }
+  .class.fa.fa-facebook:hover {
+    color: #3B5998;
+    background: white;
+  }
   
   /* Twitter */
 .class2.fa-twitter {
     background: #55ACEE;
     color: white;
+  }
+  .class2.fa-twitter:hover {
+    color: #55ACEE;
+    background: white;
   }
 
    /* Instagram */
@@ -122,9 +133,17 @@
     background: #E1306C;
     color: white;
   }
+  .class3.fa-instagram:hover {
+    color: #E1306C;
+    background: white;
+  }
  
    /* LinkedIn */
 .class5.fa-linkedin {
     background: #0e76a8;
     color: white;
+  }
+  .class5.fa-linkedin:hover {
+    color: #0e76a8;
+    background: white;
   }
