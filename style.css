@@ -54,7 +54,10 @@ a:link, a:visited {
 
     background-color: #005174;
     color: #F0EAD6;
-    padding: 20px 34%;
+    /* padding: 20px 34%; */
+    padding: 20px;
+    padding-right: min(200px, 34%);
+    padding-left: min(200px, 34%);
     margin-bottom: 5%;
     border-radius: 10px;
     font-size: large;
