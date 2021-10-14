@@ -99,13 +99,14 @@
   }
 
   #icon:hover{
-      transform: translateY(-10px);
+   
       opacity: 1;
      
   }
 
   #icon:visited{
     opacity: 0;
+    
   }
    /* Facebook */
    
