@@ -108,26 +108,7 @@
     opacity: 0;
     
   }
-   /* Facebook */
    
-.class.fa.fa-facebook {
-    background: #3B5998;
-    color: white;
-  }
-  .class.fa.fa-facebook:hover {
-    color: #3B5998;
-    background: white;
-  }
-  
-  /* Twitter */
-.class2.fa-twitter {
-    background: #55ACEE;
-    color: white;
-  }
-  .class2.fa-twitter:hover {
-    color: #55ACEE;
-    background: white;
-  }
 
    /* Instagram */
 .class3.fa-instagram {
